@@ -1,2 +1,3 @@
 # python-practice
-Small Python projects and practice scripts
+
+This repo contains small Python projects and exercises I’m practicing:
